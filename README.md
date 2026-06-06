@@ -61,4 +61,5 @@ The workbook contains VBA macros for:
 
 ## Notes
 
-This workbook is intended for practical onboard bond store accounting and is optimized for fast manual use in Microsoft Excel with macros enabled.
+- This workbook is intended for practical onboard bond store accounting and is optimized for fast manual use in Microsoft Excel with macros enabled.
+- Do not forget to unlock file after downloading! (Right click -> Properties -> Unlock)
